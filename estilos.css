@@ -1,0 +1,46 @@
+﻿*{
+	margin: 0 0 ;
+}
+
+#header_principal{
+	background-color: purple;
+	margin:10 auto;
+	display: block;
+}
+
+#titulo{
+	margin: 0 auto;
+	padding: 5 5;
+	text-align: center;
+}
+
+#footer_principal{
+	background-color: purple;
+	display: block;
+	margin: 10 auto;
+}
+
+#section{
+	text-align: center;
+	background-color: lightblue;
+	width: 95%;
+	height: 500px;
+	margin: auto;
+	display: block;
+
+}
+
+p{
+	display:block;
+	margin: 10 auto;
+	padding: 20px;
+}
+
+#box{
+	background-color: white;
+	border: 1px solid;
+	position: relative;
+	width: 90%;
+	margin: 5px auto;
+	height: 350px;
+}
