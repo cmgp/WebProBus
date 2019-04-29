@@ -24,7 +24,6 @@
 	text-align: center;
 	background-color: lightblue;
 	width: 95%;
-	height: 500px;
 	margin: auto;
 	display: block;
 
@@ -42,5 +41,4 @@ p{
 	position: relative;
 	width: 90%;
 	margin: 5px auto;
-	height: 350px;
 }
